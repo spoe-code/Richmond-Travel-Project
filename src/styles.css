@@ -1,7 +1,11 @@
-h1 {
-  font-family: "Poppins";
-  font-size: 96px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 144px;
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+header {
+  background-image: linear-gradient(rgba (0, 0, 0, 0.4), rgba (0, 0, 0, 0.4)),
+    url("../images/richmondimg1.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
